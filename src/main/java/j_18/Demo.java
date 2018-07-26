@@ -6,8 +6,8 @@ import java.util.Scanner;
 public class Demo {
     public static void main(String[] args) {
 
-//        Scanner input = new Scanner(System.in);
-//        input.useLocale(Locale.US)
+        Scanner input = new Scanner(System.in);
+        input.useLocale(Locale.US);
 
         int [] tab1 = new int[3];
         int [] tab2 = new int[3];

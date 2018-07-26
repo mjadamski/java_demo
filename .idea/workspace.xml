@@ -2,28 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38f9f686-8903-4fb6-941f-aa48ee58f76e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/j_30/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/j_30a/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/j_30a/PointAplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/j_31/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/j_31/Organizm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/j_31/Roslina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/j_31/Zwierze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/DemoPojazd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/Pojazd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/Rower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/Samochod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/figury/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/figury/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/figury/Figur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/figury/PrintHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/figury/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/figury/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/figury/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/sc_2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/sc_2/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/scrachbook/sc_2/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/j_18/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/j_18/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/j_23/Grocery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/j_23/Grocery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/figury/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/figury/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/figury/Figur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/figury/PrintHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/figury/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/figury/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/figury/Triangle.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,108 +27,43 @@
       <file leaf-file-name="Grocery.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/j_23/Grocery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+            <state relative-caret-position="504">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Figur.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Figur.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Rectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" selection-start-line="31" selection-end-line="32" selection-end-column="46" />
-              <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Triangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Triangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" selection-start-line="37" selection-end-line="38" selection-end-column="46" />
-              <folding>
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding>
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#182#183#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#392#393#0" expanded="true" />
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#885#901#0" expanded="true" />
+                <element signature="e#944#960#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Demo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Demo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/j23/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+            <state relative-caret-position="76">
+              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/j_18/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#525#532#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PrintHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/PrintHelper.java">
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/j_19/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Square.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-68">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-430">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -161,12 +84,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/j_14/Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/j_15/Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/j_16/Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/j_17/demmo.java" />
         <option value="$PROJECT_DIR$/src/main/java/j_17/Demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/j_18/Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/j_19/DemoMulti.java" />
         <option value="$PROJECT_DIR$/src/main/java/j_19/Multiplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/j_13/Demo.java" />
@@ -185,7 +106,6 @@
         <option value="$PROJECT_DIR$/src/main/java/j_24/Auto.java" />
         <option value="$PROJECT_DIR$/src/main/java/j_24/AutoFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/j_24/AutoRun.java" />
-        <option value="$PROJECT_DIR$/src/main/java/j_23/Grocery.java" />
         <option value="$PROJECT_DIR$/src/main/java/scrachbook/Zoo.java" />
         <option value="$PROJECT_DIR$/src/main/java/scrachbook/Cat.java" />
         <option value="$PROJECT_DIR$/src/main/java/scrachbook/Animal.java" />
@@ -212,6 +132,9 @@
         <option value="$PROJECT_DIR$/src/main/java/figury/PrintHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/figury/Demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/scrachbook/figury/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/j_18/Demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/j_23/Grocery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/shop_-_HomeWork_-_rozwiazanie/Demo.java" />
       </list>
     </option>
   </component>
@@ -238,7 +161,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="100" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -250,8 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,7 +209,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="scrachbook" type="462c0819:PsiDirectoryNode" />
+              <item name="j23" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-basic" type="b2602c69:ProjectViewProjectNode" />
@@ -296,8 +217,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="scrachbook" type="462c0819:PsiDirectoryNode" />
-              <item name="figury" type="462c0819:PsiDirectoryNode" />
+              <item name="j23" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="java-basic" type="b2602c69:ProjectViewProjectNode" />
@@ -328,9 +249,12 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -348,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.Demo (4)">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="scrachbook.sc_2.Demo" />
       <module name="java-basic" />
@@ -371,6 +295,28 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j_18.Demo" />
+      <module name="java-basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j23.Demo" />
+      <module name="java-basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="figury.Demo" />
       <module name="java-basic" />
@@ -378,28 +324,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="figury.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="DemoPojazd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="scrachbook.DemoPojazd" />
-      <module name="java-basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="scrachbook.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="PointAplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j_30a.PointAplication" />
-      <module name="java-basic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="j_30a.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -446,19 +370,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.PointAplication" />
-      <item itemvalue="Application.DemoPojazd" />
       <item itemvalue="Application.Demo (1)" />
       <item itemvalue="Application.Demo (2)" />
       <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Demo (3)" />
+      <item itemvalue="Application.Demo (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (4)" />
+        <item itemvalue="Application.Demo (3)" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.DemoPojazd" />
-        <item itemvalue="Application.PointAplication" />
       </list>
     </recent_temporary>
   </component>
@@ -477,6 +401,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -485,7 +410,7 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.500625" side_tool="true" weight="0.3298292" />
-      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.108125" />
+      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.1075" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499375" visible="true" weight="0.43626806" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -510,34 +435,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/j_09/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/j_10/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/j_19/Multiplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="50" lean-forward="true" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/j_19/DemoMulti.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/j_16/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -595,20 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/j_19/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/j_18/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/j_17/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-153">
@@ -616,24 +499,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/j_21/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#319#327#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/j_22/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -702,12 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-          <folding>
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -715,15 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-          <folding>
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -738,11 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
           <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -750,10 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -775,14 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -797,14 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -819,12 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -876,37 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Figur.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" selection-start-line="31" selection-end-line="32" selection-end-column="46" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" selection-start-line="37" selection-end-line="38" selection-end-column="46" />
-          <folding>
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/j_24/Auto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -914,54 +702,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/j_22/Company.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/j_23/Grocery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
+        <state relative-caret-position="34">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -975,11 +719,120 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
-          <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#525#532#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="37" selection-start-line="37" selection-end-line="38" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Figur.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/j_21/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#319#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/j_22/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/j_22/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/University.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/figury/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="31" selection-start-line="31" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/j28/Chromosom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/j_18/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/j_19/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-430">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/j222/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/j_23/Grocery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#885#901#0" expanded="true" />
+            <element signature="e#944#960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/j23/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
         </state>
       </provider>
     </entry>
