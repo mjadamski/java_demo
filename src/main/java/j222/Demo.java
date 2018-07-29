@@ -39,7 +39,7 @@ public class Demo {
                 continue;
             }
 
-            System.out.println("kosz Twojego produktu to: " + productMap.get(token));
+            System.out.println("koszt Twojego produktu to: " + productMap.get(token));
 
             if(products.contains(token)) {
 

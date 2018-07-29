@@ -25,8 +25,8 @@ public class Grocery {
         input.useLocale(Locale.US);
         System.out.println("Witaj w sklepie!\nCo chcesz dodać?");
 
-        HashMap<String, Double> warehause = new HashMap<String, Double>();
-        HashMap<String, Double> order     = new HashMap<String, Double>();
+        Map<String, Double> warehause = new HashMap<String, Double>();
+        Map<String, Double> order     = new HashMap<String, Double>();
 
         warehause.put("mleko", 2.99);
         warehause.put("jajka", 3.99);
