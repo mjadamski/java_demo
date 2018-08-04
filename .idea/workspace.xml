@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38f9f686-8903-4fb6-941f-aa48ee58f76e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/sql/ProductNotFoundExcptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/sql/controllers/ProduktController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/sql/helper/DBConnect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/sql/model/Klienci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/sql/model/Opiekunowie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/sql/model/OpiekunowieProdukty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/sql/model/Produkty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/sql/tests/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBC/sql/tests/TestConnectionDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/scrachbook/exceptions/DemoMultiCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/scrachbook/exceptions/DemoMultiCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/scrachbook/exceptions/DemoMultiCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/scrachbook/exceptions/DemoMultiCatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/java-basic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/java-basic-1.0-SNAPSHOT.jar" afterDir="false" />
-    </list>
+    <list default="true" id="38f9f686-8903-4fb6-941f-aa48ee58f76e" name="Default" comment="koniec zadanek z javy [łuhu!]" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/sql/model/Produkty.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="19" />
+              <caret line="14" column="5" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="19" />
               <folding>
                 <element signature="e#405#406#0" expanded="true" />
                 <element signature="e#432#433#0" expanded="true" />
@@ -82,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/sql/tests/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="24">
-              <caret line="51" lean-forward="true" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="55" />
+              <caret line="51" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,8 +78,8 @@
       <file leaf-file-name="DemoMultiCatch.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/exceptions/DemoMultiCatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="229">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -290,7 +275,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="100" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -532,7 +517,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -564,6 +550,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="koniec zadanek z javy [łuhu!]" />
+    <option name="LAST_COMMIT_MESSAGE" value="koniec zadanek z javy [łuhu!]" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/j_31/Zwierze.java">
@@ -996,7 +986,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/sql/model/Produkty.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="19" />
+          <caret line="14" column="5" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="19" />
           <folding>
             <element signature="e#405#406#0" expanded="true" />
             <element signature="e#432#433#0" expanded="true" />
@@ -1043,7 +1033,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/JDBC/sql/tests/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
-          <caret line="51" lean-forward="true" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="55" />
+          <caret line="51" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1052,8 +1042,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/scrachbook/exceptions/DemoMultiCatch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="229">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
